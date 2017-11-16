@@ -16,8 +16,8 @@ You can visit http://18.195.133.108/ for the website deployed.
 
 `apt-get upgrade` - to actually upgrade the installed packages
 
-## Add user
-Add user `grader` with command: `sudo useradd grader`
+## Add user with sudo ability
+Add user `grader` with command: `sudo adduser grader sudo`
 
 ## Create SSH keys from user 'grader'
 ```
