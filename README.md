@@ -102,11 +102,15 @@ Quit postgreSQL by  `postgres=# \q`
 
 ## Install Git and Clone Catalog project file
 Install GIT
+
 `sudo apt-get install git`
+
 and clone repositiry to ubuntu home:
+
 ```
-git clone https://github.com/Lonitch/catelog.git
+git clone https://github.com/ganesh986/UdacityFourthProject.git
 ```
+
 Use `cd /var/www` to move to the '/var/www' directory
 Create the directory `sudo mkdir myApp`
 Move inside this directory and create another myApp directory again and copy the files inside "catalog" directory of the cloned project.
