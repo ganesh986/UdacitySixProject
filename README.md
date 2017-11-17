@@ -210,3 +210,7 @@ open('/var/www/myApp/myApp/client_secrets.json', 'r').read())['web']['client_id'
 ```
 
 Now, the configuration is finished. we can access the catalog app by opening a browser and directing it to `http://18.195.133.108/`
+
+## Third-party resources
+
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
